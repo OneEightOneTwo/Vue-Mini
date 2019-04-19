@@ -9,14 +9,12 @@
     </header>
 </template>
 
-<style>
-* {
-  margin: 0;
-  padding: 0;
-}
+<style scoped>
 header {
   width: 100%;
   display: flex;
+  /* height: 2.5rem; */
+  background: palegreen;
   height: 2.5rem;
   justify-content: space-between;
 }

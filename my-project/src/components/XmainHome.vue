@@ -14,7 +14,7 @@
         </div>
     </section>
 </template>
-<style>
+<style scoped>
 .main {
   overflow: hidden;
   width: 100%;

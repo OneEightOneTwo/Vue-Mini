@@ -25,7 +25,6 @@
   width: 100%;
   display: flex;
   height: 2.5rem;
-
   /* background: #fff; */
 }
 .home {
@@ -67,11 +66,11 @@
 } */
 </style>
 <script>
-import Vue from "vue";
-import $ from "vue-jquery";
+// import Vue from "vue";
+// import $ from "vue-jquery";
 
 // import img from "../assets/footer_icon_03.png";
-Vue.use($);
+// Vue.use($);
 export default {
   // name: "app",
   data() {

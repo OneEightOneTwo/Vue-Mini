@@ -1,4 +1,4 @@
-# ject
+# vue
 
 ## Project setup
 ```
